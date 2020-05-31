@@ -1,2 +1,4 @@
 # FPGA
-Wechat  public num:fpga_platform
+1.Vivado 版本2019.1.3
+2.此处存放FPGA从入门到精通系列源码。
+3.欢迎关注我的微信公众号：FPGA说
